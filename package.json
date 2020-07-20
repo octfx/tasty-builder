@@ -18,7 +18,7 @@
   "dependencies": {
     "@types/jsoneditor": "^5.28.2",
     "jsoneditor": "^8.6.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "paper": "^0.12.4",
     "tasty.js": "github:cosmoscout/tasty.js#f266fbf8ce7194903eaa5f7f5300a6bb2d9c10a5"
   },
